@@ -16,7 +16,7 @@ To simulate the Fused Deposition Modeling (FDM) process.
 - ## OUTPUT:<img height=40% width=100% src="https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7"><img height=40% width=100% src="https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b"><img height=40% width=100% src="https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8">
 ## Output:
 ![Screenshot 2023-05-23 105212](https://github.com/ROHITJAIND/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118707073/8c4095b5-da27-44da-8678-eda6d37bd09f)
-### Name: KRISHNARAJ D
-### Register Number: 212222230070
+### Name: karna S
+### Register Number: 212222110017
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
